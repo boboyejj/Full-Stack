@@ -1,1 +1,1 @@
-Start the journey of full-stack developer
+Start a journey as a full-stack developer
